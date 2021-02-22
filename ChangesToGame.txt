@@ -1,0 +1,12 @@
+CHANGES MADE:
+
+1. Changed floor colour -> from grey to pink
+2. Added a room -> added room_altar
+3. Added an asset -> asset "cheese" from food package on Unity
+4. Added an asset -> asset "banana" from food package on Unity
+5. Changed player speed -> from 13 to 50
+6. Changed enemy hoverbot eye colour -> from yellow to pink
+7. Changed colour of the "play" button -> from white to purple
+8. Added a tree -> "fallen tree"
+9. Added a tree -> "fir tree"
+10. Added a model -> "altar"
